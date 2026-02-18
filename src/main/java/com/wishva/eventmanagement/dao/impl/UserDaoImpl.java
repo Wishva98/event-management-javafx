@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class UserDaoImpl implements UserDao {
     @Override
     public void setup() throws SQLException {
-        
+
     }
 
     @Override
